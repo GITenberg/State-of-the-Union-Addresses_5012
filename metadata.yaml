@@ -1,0 +1,25 @@
+_repo: State-of-the-Union-Addresses_5012
+creator:
+  author:
+    agent_name: Jefferson, Thomas
+    alias: United States President (1801-1809)
+    birthdate: 1743
+    deathdate: 1826
+    gutenberg_agent_id: '1638'
+    url: http://www.gutenberg.org/2009/agents/1638
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'J'
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcsh 'United States -- Politics and government -- Sources'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5012
